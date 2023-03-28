@@ -14,7 +14,7 @@
       <td>
 <img src="(https://user-images.githubusercontent.com/127838702/228148448-7becee58-595b-4df7-9c39-b9aa1415f352.png" width="150">
      </td>
-     <td>
+     <tr>
 <img src="(https://user-images.githubusercontent.com/127838702/228148428-3826026f-b73b-4c9d-b8df-cb1195c58d58.png" width="150">
       </td>
       <td>

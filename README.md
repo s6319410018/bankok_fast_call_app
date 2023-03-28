@@ -16,6 +16,8 @@
       <td>
       <img src="https://user-images.githubusercontent.com/127838702/228148465-1c89da20-6625-4c17-9540-f3aaf2e6681b.png" width="150"
        </td> 
+        <td>
+      <img src="https://user-images.githubusercontent.com/127838702/228148465-1c89da20-6625-4c17-9540-f3aaf2e6681b.png" width="150"
      </tr>
    </table>
 
